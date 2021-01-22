@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I am a Software Engineer, focussing on developing web and mobile applications.
+* I have 8 years of experiance in developing, designing, and managing web applications
+* Good in Java, JavaScript, HTML, CSS, SQL and related frame works and technolgies.
+
+- 🔭 I’m currently working on microservices and related frameworks.
+
+- 📫 How to reach me: 
+📧 anilram295@gmail.com
+[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/https://github.com/anilram)
+[<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anilramls/)
+
+- 😄 Pronouns:he/him/his
+
+# Skills
+* Client Side: JavaScript, HTML, CSS, JQuery, TypeScript, Extjs6, Angular, Highcharts.
+* Server Side: C, Java, Struts, Spring Core Framework, Spring Boot, Spring Cloud, Kafka, Reporting Libraries.
+* Data Base Side: MySQL, Postgres, MongoDB, DynamoDB.
+* VCS: git.
+* IDE:eclipse, visual studio code.
