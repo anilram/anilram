@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on microservices and related frameworks.
 
 - 📫 How to reach me:  [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/anilram)
-[<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilramls/)
+[<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilramsl/)
 
 - 😄 Pronouns:he/him/his
 
