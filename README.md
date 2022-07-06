@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns:he/him/his
 
 # Skills
-* Client Side: JavaScript, HTML, CSS, JQuery, TypeScript, Extjs6, Angular, Highcharts.
-* Server Side: C, Java, Struts, Spring Core Framework, Spring Boot, Spring Cloud, Kafka, Reporting Libraries.
-* Data Base Side: MySQL, Postgres, MongoDB, DynamoDB.
+* UI: JavaScript, HTML, CSS, JQuery, TypeScript, Extjs6, Angular, Highcharts.
+* Backend: C, Java, Struts, Spring Core Framework, Spring Boot, Spring Cloud, Kafka, Reporting Libraries.
+* DataBase: MySQL, Postgres, MongoDB, DynamoDB.
 * VCS: git.
 * IDE:eclipse, visual studio code.
