@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 # Skills
 * UI: JavaScript, HTML, CSS, JQuery, TypeScript, Extjs6, Angular, Highcharts.
 * Backend: C, Java, Struts, Spring Core Framework, Spring Boot, Spring Cloud, Kafka, Reporting Libraries.
-* DataBase: MySQL, Postgres, MongoDB, DynamoDB.
+* Database: MySQL, Postgres, MongoDB, DynamoDB.
 * VCS: git.
 * IDE:eclipse, visual studio code.
