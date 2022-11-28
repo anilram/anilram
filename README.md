@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * I am a Software Engineer, focussing on developing web and mobile applications.
-* I have 8 years of experiance in developing, designing, and managing web applications
+* I am having 10 years of experiance in developing, designing, and managing web applications
 * Good in Java, JavaScript, HTML, CSS, SQL and related frameworks and technolgies.
 
 - 🔭 I’m currently working on microservices and related frameworks.
